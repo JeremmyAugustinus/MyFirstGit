@@ -1,3 +1,4 @@
 Hello World!
 New Changes!
 feature1
+feature2
